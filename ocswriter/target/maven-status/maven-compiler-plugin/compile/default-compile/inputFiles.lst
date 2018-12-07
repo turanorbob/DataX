@@ -1,0 +1,5 @@
+/data/opensource/DataX/ocswriter/src/main/java/com/alibaba/datax/plugin/writer/ocswriter/Key.java
+/data/opensource/DataX/ocswriter/src/main/java/com/alibaba/datax/plugin/writer/ocswriter/OcsWriter.java
+/data/opensource/DataX/ocswriter/src/main/java/com/alibaba/datax/plugin/writer/ocswriter/utils/OcsWriterErrorCode.java
+/data/opensource/DataX/ocswriter/src/main/java/com/alibaba/datax/plugin/writer/ocswriter/utils/ConfigurationChecker.java
+/data/opensource/DataX/ocswriter/src/main/java/com/alibaba/datax/plugin/writer/ocswriter/utils/CommonUtils.java
